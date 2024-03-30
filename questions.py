@@ -8,9 +8,6 @@ def sumOfDigit(n):
                   return n%10 + sumOfDigit(n//10)
          
 print(sumOfDigit(5678001))
-# jiiiisdfhj
-
-# hhuvybhhnm
 '''
 
 # fibonacci series
