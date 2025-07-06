@@ -6,9 +6,7 @@ async function main() {
     const addNum1 = Number(await input('enter num 1 = '));
     const addNum2 = Number(await input ('enter num 2 = ')) 
     let add = addNum1+addNum2
-    console.log(add);
-    
-    
+    console.log(add);  
     
 }
 
